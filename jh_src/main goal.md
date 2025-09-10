@@ -54,3 +54,26 @@ high goal
    trading recommendations
       - base on current available info, what is the entry & exit prices
    
+________________________________________________________________________________________
+
+user able to input <company>/<ticker> or <topic>
+
+base on this given <company>
+
+   supervisor_agent will determine how many agents to spawn
+   !!!{SUPERVISOR_PROMPT}
+
+   - come up with task list
+   - spawn the necessary agents to do the job
+   - write a dated report on the considerations (pros & cons), and determine a buy & sell price
+
+
+
+in the future, able to run this same pipeline, and determine if new info in found
+and update the report & findings accordingly
+
+
+
+
+
+   
