@@ -4,3 +4,7 @@ __pycache__
 .langgraph_api/
 deep_research_from_scratch.egg-info/
 *.pyc
+jh_summary.md
+
+## ignore folders
+jh_note_imgs/
